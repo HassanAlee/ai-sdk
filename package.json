@@ -11,7 +11,9 @@
   "dependencies": {
     "@ai-sdk/openai": "^3.0.68",
     "@ai-sdk/react": "^3.0.199",
+    "@imagekit/next": "^2.1.5",
     "ai": "^6.0.197",
+    "imagekit": "^6.0.0",
     "next": "16.2.6",
     "react": "19.2.4",
     "react-dom": "19.2.4",
