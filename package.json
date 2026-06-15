@@ -9,9 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/mcp": "^1.0.51",
     "@ai-sdk/openai": "^3.0.68",
     "@ai-sdk/react": "^3.0.199",
     "@imagekit/next": "^2.1.5",
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "ai": "^6.0.197",
     "imagekit": "^6.0.0",
     "next": "16.2.6",
